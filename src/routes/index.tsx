@@ -7,7 +7,7 @@ const router: RouteObject[] = [
   {
     path: "/",
     element: (
-      <React.Suspense fallback={<div>Loading...</div>}>
+      <React.Suspense fallback={<div></div>}>
         <PomodoroPages />
       </React.Suspense>
     ),
