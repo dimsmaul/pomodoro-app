@@ -9,7 +9,7 @@ import Eighth from "./Lofi background music-3.mp3";
 import Ninth from "./Lofi background music.mp3";
 import Tenth from "./Lofi Chill.mp3";
 import Eleventh from "./Lofi girl - lofi hiphop beats.mp3";
-import Twelfth from "./lofi girl lofi ambient music.mp3";
+import Twelfth from "./Lofi girl lofi ambient music.mp3";
 import Thirteenth from "./Lofi Study - Calm Peaceful Chill Hop.mp3";
 import Fourteenth from "./Lofi.mp3";
 import Fifteenth from "./Rainy Lofi CIty - Lofi Music.mp3";
