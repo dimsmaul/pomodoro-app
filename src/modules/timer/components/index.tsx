@@ -32,7 +32,7 @@ const TimerModule: React.FC = () => {
       </div>
 
       {/* Timer */}
-      <div className="flex flex-col items-center justify-center">
+      <div className="flex flex-row gap-5 items-center justify-center">
         <div className="relative flex">
           <TimeDisplay minutes={minutes} seconds={seconds} />
         </div>
